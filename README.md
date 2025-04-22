@@ -1,8 +1,8 @@
-### React.gg assessment
+# React.gg assessment
 
 ## Question:
 
-# Tasks:
+### Tasks:
 -Create a simple Task Manager in React where users can:
 -Add new tasks
 -Mark tasks as completed or pending
